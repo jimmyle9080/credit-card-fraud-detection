@@ -1,0 +1,2 @@
+total_transactions,total_fraud,fraud_rate_pct,total_fraud_dollars,avg_fraud_amount,avg_legit_amount,max_transaction,avg_risk_score
+284807,492,0.173,60127.97,122.21,88.29,25691.16,7.62
